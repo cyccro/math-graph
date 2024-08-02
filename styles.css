@@ -1,0 +1,75 @@
+.modify-btn {
+	background-color: transparent;
+	border-width: 0px;
+	border-color: transparent;
+	color: black;
+}
+
+.inputs-manager {
+	min-width: 120px;
+}
+
+.fn-input {
+	margin-right: 4px;
+	border-width: 1px;
+	border-radius: 2px;
+}
+
+.add-input {
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 0px;
+}
+
+.red-btn {
+	color: #c22a1f;
+	border-color: #c22a1f;
+}
+
+.orange-btn {
+	color: #e07122;
+	border-color: #e07122;
+
+}
+
+.yellow-btn {
+	color: #edc43e;
+	border-color: #edc43e;
+
+}
+
+.green-btn {
+	color: #79e034;
+	border-color: #79e034;
+
+}
+
+.cyan-btn {
+	color: #1df0bb;
+	border-color: #1df0bb;
+
+}
+
+.blue-btn {
+	color: #2fe4f5;
+	border-color: #2fe4f5;
+
+}
+
+.darkblue-btn {
+	color: #2c35de;
+	border-color: #2c35de;
+
+}
+
+.purple-btn {
+	color: #6419bf;
+	border-color: #6419bf;
+
+}
+
+.pink-btn {
+	color: #e625e2;
+	border-color: #e625e2;
+
+}
